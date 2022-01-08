@@ -1,2 +1,2 @@
-# Repsoitório para o desafio Git/Github da DIO
+# Repositório para o desafio Git/Github da DIO
 Repositorio para projetos BootCamp Localiza
